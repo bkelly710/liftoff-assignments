@@ -13,6 +13,4 @@ https://github.com/bkelly710/
 https://www.linkedin.com/in/bridget-kelly-8bbab23a/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+https://docs.google.com/document/d/e/2PACX-1vR9-wj1mZgOqMXSkiSpk2mqPnJe3fApt95K2BduRI_3IyniMbKbIlTLS9e3Qxd_P4SwgwdwhWNECPZi/pub
