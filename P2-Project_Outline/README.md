@@ -4,15 +4,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
+Submitting Your Outline
+
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a website sign up for petition requests in Missouri. The website will allow users to sign up and rank issues in level of importance to them to see circulated on a Missouri petition next. The website will also provide "administrator" users with a database of interested voters and their information, as long as ranked choices to help organizations decide what petition to sponsor next.
 ### Features
-Include Features here
+User login - Users will be able to create accounts, users will be able to edit and update their information as needed
+Administrator login - Admins will be able to create accounts 
+Access to database and sorting - Admins will be able to access the data from the signups on the website
+Email updates - I would like to be able to allow admins to send email updates to folks who have signed up
+
 ### Technologies
-Include Technologies here
+Python
+Flask
+SQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm going to need to learn some way of being able to add email updates or some other user interaction
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/KPCeqWQQ/final-project
